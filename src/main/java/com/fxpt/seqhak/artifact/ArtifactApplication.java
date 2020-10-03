@@ -1,13 +1,13 @@
-package com.seqhak;
+package com.fxpt.seqhak.artifact;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SeqhakApplication {
+public class ArtifactApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SeqhakApplication.class, args);
+		SpringApplication.run(ArtifactApplication.class, args);
 	}
 
 }
